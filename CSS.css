@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+	img{
+		width: 200px;
+		height:200px;
+		float:right;	
+	}
+	img:hover{
+		width: 400px;
+		height:700px; 
+		
+		background-color: brown;
+	}
+	legend{
+		color: #FF0004
+	}
+	.nom{
+		color: red;
+	}
+
+
